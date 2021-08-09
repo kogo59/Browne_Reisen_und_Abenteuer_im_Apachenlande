@@ -1,13 +1,13 @@
 # Verzeichniß der Illustrationen. {.unnumbered }
 
-1. [Das Felsen-Plateau am Gila](ch003.xhtml#b004)
-2. [Silberminen in den Santa Rita-Bergen](ch003.xhtml#b008)
-3. [Ein verwegener Abenteurer](ch003.xhtml#b009)
-4. [Apache-Indianer](ch003.xhtml#b014)
-5. Pimo-Indianer
-6. San Pedro
-7. Wilmington
-8. Schlucht von San Felippe
+1. [Das Felsen-Plateau am Gila](ch004.xhtml#b004)
+2. [Silberminen in den Santa Rita-Bergen](ch004.xhtml#b008)
+3. [Ein verwegener Abenteurer](ch004.xhtml#b009)
+4. [Apache-Indianer](ch004.xhtml#b014)
+5. [Pimo-Indianer](ch005.xhtml#b019)
+6. [San Pedro](ch005.xhtml#b021)
+7. [Wilmington](ch005.xhtml#b023)
+8. [Schlucht von San Felippe](ch005.xhtml#b030)
 9. Fort Yuma
 10. Yuma-Indianer
 11. Yuma-Häuptlinge
