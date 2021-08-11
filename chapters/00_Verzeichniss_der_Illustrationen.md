@@ -8,11 +8,11 @@
 6. [San Pedro](ch005.xhtml#b021)
 7. [Wilmington](ch005.xhtml#b023)
 8. [Schlucht von San Felippe](ch005.xhtml#b030)
-9. Fort Yuma
-10. Yuma-Indianer
-11. Yuma-Häuptlinge
-12. Sie sind beschenkt worden
-13. George
+9. [Fort Yuma](ch003.xhtml#b000)
+10. [Yuma-Indianer](ch007.xhtml#b046)
+11. [Yuma-Häuptlinge](ch007.xhtml#b048)
+12. [Sie sind beschenkt worden](ch007.xhtml#b049)
+13. [George](ch007.xhtml#b050)
 14. Pimo-Indianer-Mädchen
 15. Castle-Dom
 16. Gila-Stadt

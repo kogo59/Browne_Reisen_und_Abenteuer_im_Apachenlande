@@ -503,7 +503,7 @@ Wachteln. Meine Büchse war immer schußfertig, und gewöhnlich gelang es mir, w
 ich gelegentlich aus unserem Ambulanzwagen hinausschoß, einen guten Vorrath von
 Wild bis zu unserem Rastpunkte zusammenzubringen, wo dann unser Kochkünstler Dr.
 Jim Berry seiner Kunstfertigkeit Ehre zu machen wußte. Wir waren guter Dinge und
-ließen es uns gut schmecken, bevor wir uns zur Ruhe begaben, ein Leben, bei dem
+ließen es uns gut schmecken, bevor wir uns zur Ruhe begaben,images ein Leben, bei dem
 wir uns wohl befanden, wie unser Aussehen bewies, bis wir nach Cariso gelangten,
 der letzten bewohnten Station auf der Straße nach der Wüste. Hier rasteten wir,
 denn weiterhin waren wir hundert Meilen weit den Sandwehen, den Stürmen und dem

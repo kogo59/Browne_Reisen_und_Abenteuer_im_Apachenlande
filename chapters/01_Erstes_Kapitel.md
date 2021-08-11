@@ -340,7 +340,7 @@ konnte zwischen San Francisco und der Hauptstadt Comstock mittelst des
 Telegraphen in Silberactien bequem speculiren. Der Silberschwindel hatte die
 Folge, daß Arizona vernachlässigt wurde und fast in Vergessenheit gerieth. Dazu
 kam noch ein Schlag, der schwerer war, denn alles Erlittene; der Aufruhr des
-Südens brach im April 1861 los! Die Butterfield-Ueberlandpost hörte in dem
+Südens brach im April 1861 los! Die Butterfield-Ueberlandpost^[^0126]^ hörte in dem
 Momente auf, angesichts der Gefahren, die sie bedrohten, und ein Beschluß des
 Congresses schrieb der Ueberlandpost sofort eine andere Route vor. Im Monat Juli
 räumten schon die wenigen Bundestruppen das Territorium in der schmählichsten
@@ -473,3 +473,5 @@ Ausrottung!
 [^0124]: [*Fort Fillmore*: vergleiche [Fort Fillmore](https://en.wikipedia.org/wiki/Fort_Fillmore)]{.footnote}
 
 [^0125]: [*Tucson*: vergleiche [Tucson, Arizona](https://en.wikipedia.org/wiki/Tucson,_Arizona)]{.footnote}
+
+[^0126]: [*Butterfield-Ueberlandpost*: vergleiche [Butterfield Overland Mail](https://de.wikipedia.org/wiki/Butterfield_Overland_Mail)]{.footnote}

@@ -23,7 +23,7 @@ Sechster Band:<br /><br />
 ::::
 
 :::: { .fs-l .align-center }
-Reisen und Abenteuer im Apachenlande.<br /><br /><br />
+Reisen und Abenteuer im Apachenlande.<br /><br />
 ::::
 
 :::: { .fs-xs .align-center }
@@ -45,7 +45,7 @@ Hermann Costenoble<br />
 ::::
 
 :::: {.wrap-100 .break-before}
-![Fort Yuma.](Abenteuer_im_Apachenlande_0000.jpg "Der Verfasser vor und nach seiner Reise."){#b000}
+![Fort Yuma.](Abenteuer_im_Apachenlande_0000.jpg "Fort Yuma."){#b000}
 ::::
 
 
