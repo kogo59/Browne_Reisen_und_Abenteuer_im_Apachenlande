@@ -18,8 +18,8 @@
 16. [Gila-Stadt](ch009.xhtml#b061)
 17. [Mission Camp. Corunnacion-Pic](ch009.xhtml#b062)
 18. [Antelope-Pic](ch009.xhtml#b064)
-19. Thurm auf dem Plateau
-20. Scene des Oatman-Mordes
+19. [Thurm auf dem Plateau](ch010.xhtml#b070)
+20. [Scene des Oatman-Mordes](ch010.xhtml#b074)
 21. Ein Apache am Galgen
 22. Ein Apache am Kreuz
 23. White's Mühle
