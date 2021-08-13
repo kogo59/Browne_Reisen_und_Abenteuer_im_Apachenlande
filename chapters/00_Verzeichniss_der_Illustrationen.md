@@ -20,8 +20,8 @@
 18. [Antelope-Pic](ch009.xhtml#b064)
 19. [Thurm auf dem Plateau](ch010.xhtml#b070)
 20. [Scene des Oatman-Mordes](ch010.xhtml#b074)
-21. Ein Apache am Galgen
-22. Ein Apache am Kreuz
+21. [Ein Apache am Galgen](ch011.xhtml#b082)
+22. [Ein Apache am Kreuz](ch011.xhtml#b085)
 23. White's Mühle
 24. Ein Pimo-Dorf
 25. Pimo Barsoma

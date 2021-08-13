@@ -62,7 +62,7 @@ Tage lang zogen sie unter den größten Schwierigkeiten vorwärts, — seine Fam
 nahe daran, zu verhungern, sein Vieh kaum noch fähig, den Wagen fortzuziehen, —
 als sie von Dr. Lecount und einem mexicanischen Führer an einem Punkte unterhalb
 der großen Biegung des Gila eingeholt wurden. Bei der Erschöpfung des Zugviehes
-war es augenscheinlich, daß sie Fort Huma nicht ohne Beistand mehr erreichen
+war es augenscheinlich, daß sie Fort Yuma nicht ohne Beistand mehr erreichen
 konnten, und so war Dr. Lecount bereit, so rasch als möglich voran zu eilen, um
 ihnen Hülfe vom Fort aus entgegen zu senden, das noch gegen neunzig Meilen
 entfernt lag. In der ersten Nacht, nachdem er die Oatman-Familie verlassen,
