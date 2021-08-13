@@ -13,11 +13,11 @@
 11. [Yuma-Häuptlinge](ch007.xhtml#b048)
 12. [Sie sind beschenkt worden](ch007.xhtml#b049)
 13. [George](ch007.xhtml#b050)
-14. Pimo-Indianer-Mädchen
-15. Castle-Dom
-16. Gila-Stadt
-17. Mission Camp. Corunnacion-Pic
-18. Antelope-Pic
+14. [Pimo-Indianer-Mädchen](ch008.xhtml#b052)
+15. [Castle-Dom](ch008.xhtml#b056)
+16. [Gila-Stadt](ch009.xhtml#b061)
+17. [Mission Camp. Corunnacion-Pic](ch009.xhtml#b062)
+18. [Antelope-Pic](ch009.xhtml#b064)
 19. Thurm auf dem Plateau
 20. Scene des Oatman-Mordes
 21. Ein Apache am Galgen
