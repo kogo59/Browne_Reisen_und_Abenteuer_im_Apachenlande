@@ -22,12 +22,12 @@
 20. [Scene des Oatman-Mordes](ch010.xhtml#b074)
 21. [Ein Apache am Galgen](ch011.xhtml#b082)
 22. [Ein Apache am Kreuz](ch011.xhtml#b085)
-23. White's Mühle
-24. Ein Pimo-Dorf
-25. Pimo Barsoma
-26. Pimo Hampta
-27. Ein Pimo-Weib beim Weizenmahlen
-28. Ein Pimo-Weib in Trauer
+23. [White's Mühle](ch012.xhtml#b088)
+24. [Ein Pimo-Dorf](ch012.xhtml#b089)
+25. [Pimo Barsoma](ch012.xhtml#b090)
+26. [Pimo Hampta](ch012.xhtml#b091)
+27. [Ein Pimo-Weib beim Weizenmahlen](ch012.xhtml#b092)
+28. [Ein Pimo-Weib in Trauer](ch012.xhtml#b093)
 29. Casas Grandes
 30. Die bemalten Felsen am Gila
 31. Die Felsenmalereien
