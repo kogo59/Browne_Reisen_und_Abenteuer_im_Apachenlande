@@ -84,7 +84,7 @@ welche Ernten auf diesen reservirten Gründen erzielt werden.
 Es giebt zehn Pimo-Dörfer, während die Maricopas nur zwei Dörfer bewohnen;
 insgesammt besitzen sie tausend eingehegte Grundstücke mit einer
 Gesammtbevölkerung von sechstausend Seelen. Im Jahre 1858, dem ersten Jahre, wo
-die Ueberlandpostverbindung in's Lehen getreten, hatten sie einen Ueberschuß von
+die Ueberlandpostverbindung in's Leben getreten, hatten sie einen Ueberschuß von
 100,000 Pfund Weizen, den die Postgesellschaft kaufte, sammt großen Vorräthen an
 Bohnen, die unter dem Namen „taperis“ bekannt sind, Kürbissen, Melonenkürbissen
 und Melonen. Im Jahre 1859 wurde Herr St. John als Specialagent zu ihnen
@@ -161,7 +161,7 @@ dem Tage, wo die Todten auferstehen! —
 ![Ein Pimo-Weib beim Weizenmahlen.](Abenteuer_im_Apachenlande_0092.jpg "Ein Pimo-Weib beim Weizenmahlen."){#b092}
 ::::
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100 }
 ![Ein Pimo-Weib in Trauer.](Abenteuer_im_Apachenlande_0093.jpg "Ein Pimo-Weib in Trauer."){#b093}
 ::::
 

@@ -28,11 +28,11 @@
 26. [Pimo Hampta](ch012.xhtml#b091)
 27. [Ein Pimo-Weib beim Weizenmahlen](ch012.xhtml#b092)
 28. [Ein Pimo-Weib in Trauer](ch012.xhtml#b093)
-29. Casas Grandes
-30. Die bemalten Felsen am Gila
-31. Die Felsenmalereien
-32. Die schönen Künste in Arizona.
-33. Der Pecacho
+29. [Casas Grandes](ch013.xhtml#b095)
+30. [Die bemalten Felsen am Gila](ch013.xhtml#b098)
+31. [Die Felsenmalereien](ch013.xhtml#b100)
+32. [Die schönen Künste in Arizona](ch014.xhtml#b106)
+33. [Der Pecacho](ch014.xhtml#b109)
 37. San Xavier del Bac
 38. Bill Rhodes Pachthof
 39. Tubac
