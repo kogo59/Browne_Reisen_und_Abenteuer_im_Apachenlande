@@ -33,8 +33,11 @@
 31. [Die Felsenmalereien](ch013.xhtml#b100)
 32. [Die schönen Künste in Arizona](ch014.xhtml#b106)
 33. [Der Pecacho](ch014.xhtml#b109)
-37. San Xavier del Bac
-38. Bill Rhodes Pachthof
+34. [Tucson](ch015.xhtml#b112)
+35. [Tucson von hinten angesehen](ch015.xhtml#b117)
+36. [Capitain Jose, Papagoe-Häuptling](ch016.xhtml#b120)
+37. [San Xavier del Bac](ch016.xhtml#b121)
+38. [Bill Rhodes Pachthof](ch016.xhtml#b122)
 39. Tubac
 40. Die Mission San Jose de Tumacacari
 41. Grenz-Monument
@@ -45,7 +48,7 @@
 46. Banditen auf der Lauer
 47. Donna Juez
 48. Mission Cocospera
-19. Eine Abenteuerin
+49. Eine Abenteuerin
 50. San Lazaro
 51. Santa Cruz
 52. Lazzaroni von Santa Cruz
