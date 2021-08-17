@@ -38,14 +38,14 @@
 36. [Capitain Jose, Papagoe-Häuptling](ch016.xhtml#b120)
 37. [San Xavier del Bac](ch016.xhtml#b121)
 38. [Bill Rhodes Pachthof](ch016.xhtml#b122)
-39. Tubac
-40. Die Mission San Jose de Tumacacari
-41. Grenz-Monument
-42. Cocospera-Schlucht
-43. Imuriz
-44. Der Präfect von Magdalena
-45. Kirche von Magdalena
-46. Banditen auf der Lauer
+39. [Tubac](ch016.xhtml#b125)
+40. [Die Mission San Jose de Tumacacari](ch017.xhtml#b129)
+41. [Grenz-Monument](ch017.xhtml#b134)
+42. [Cocospera-Schlucht](ch018.xhtml#b137)
+43. [Imuriz](ch018.xhtml#b141)
+44. [Der Präfect von Magdalena](ch019.xhtml#b145)
+45. [Kirche von Magdalena](ch019.xhtml#b147)
+46. [Banditen auf der Lauer](ch019.xhtml#b149)
 47. Donna Juez
 48. Mission Cocospera
 49. Eine Abenteuerin
