@@ -52,9 +52,9 @@
 50. [San Lazaro](ch021.xhtml#b162)
 51. [Santa Cruz](ch022.xhtml#b163)
 52. [Lazzaroni von Santa Cruz](ch022.xhtml#b166)
-53. Landhaus San Antonio
-54. Der Ort, wo Mills und Stevens angegriffen wurden
-55. Stiefel, Kopfputz, Sattel etc. der Apachen
+53. [Landhaus San Antonio](ch023.xhtml#b170)
+54. [Der Ort, wo Mills und Stevens angegriffen wurden](ch023.xhtml#b172)
+55. [Stiefel, Kopfputz, Sattel etc. der Apachen](ch023.xhtml#b173)
 56. Landhaus der Mowry-Mine
 57. Die Mowry-Mine
 58. Sylvester Mowry
