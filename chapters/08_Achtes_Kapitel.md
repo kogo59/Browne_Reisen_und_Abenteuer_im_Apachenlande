@@ -98,7 +98,7 @@ eine Meinung, der ich gern beipflichte.
 Von diesem Punkte unseres Weges an begegnete uns nichts von speciellem
 Interesse, bis wir durch die Schlucht oberhalb der großen Krümmung des Gila
 zogen. An dem Maricopa-Brunnen zeigte man mir den Ort, wo im Jahre 1857
-angesichts des  Stationshauses ein großer Kampf der Pimo- und MaricopaIndianer
+angesichts des  Stationshauses ein großer Kampf der Pimo- und Maricopa-Indianer
 gegen die Yuma-Indianer stattgefunden hatte. Von fünfundsiebzig Yuma-Indianern,
 die im Verein mit den Hualpais und Mojaves den Versuch gemacht, die Pimos und
 Maricopas zu verdrängen, sind nur drei übrig geblieben, die ihr Schicksal

@@ -46,12 +46,12 @@
 44. [Der Präfect von Magdalena](ch019.xhtml#b145)
 45. [Kirche von Magdalena](ch019.xhtml#b147)
 46. [Banditen auf der Lauer](ch019.xhtml#b149)
-47. Donna Juez
-48. Mission Cocospera
-49. Eine Abenteuerin
-50. San Lazaro
-51. Santa Cruz
-52. Lazzaroni von Santa Cruz
+47. [Donna Inez](ch020.xhtml#b152)
+48. [Mission Cocospera](ch021.xhtml#b155)
+49. [Eine Abenteuerin](ch021.xhtml#b157)
+50. [San Lazaro](ch021.xhtml#b162)
+51. [Santa Cruz](ch022.xhtml#b163)
+52. [Lazzaroni von Santa Cruz](ch022.xhtml#b166)
 53. Landhaus San Antonio
 54. Der Ort, wo Mills und Stevens angegriffen wurden
 55. Stiefel, Kopfputz, Sattel etc. der Apachen

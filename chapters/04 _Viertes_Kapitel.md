@@ -273,4 +273,4 @@ unter Indianern und Wilden heute sein Leben verbringen muß!“ —
 
 [^0400]: [*Castle Dome*: vergleiche [Castle Dome](https://en.wikipedia.org/wiki/Castle_Dome_(butte))]{.footnote}
 
-[^0401]: [* Chimney-Pic*: vergleiche [Chimney Peak Wilderness](https://en.wikipedia.org/wiki/Chimney_Peak_Wilderness)]{.footnote}
+[^0401]: [*Chimney-Pic*: vergleiche [Chimney Peak Wilderness](https://en.wikipedia.org/wiki/Chimney_Peak_Wilderness)]{.footnote}
