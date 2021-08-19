@@ -64,11 +64,11 @@
 62. [Samuel F. Butterworth](ch025.xhtml#b188)
 63. [Angriff auf Herrn Butterworth](ch025.xhtml#b189)
 64. [Zusammentreffen mit Butterworth](ch025.xhtml#b192)
-65. Landsitz der Santa Rita-Minen-Gesellschaft
-66. Sandsteinsäulen
-67. Die Salero-Mine
-68. Ein Grab auf der Santa Cruz-Straße
-69. Ch D. Poston
+65. [Landsitz der Santa Rita-Minen-Gesellschaft](ch026.xhtml#b197)
+66. [Sandsteinsäulen](ch026.xhtml#b199)
+67. [Die Salero-Mine](ch026.xhtml#b200)
+68. [Ein Grab auf der Santa Cruz-Straße](ch026.xhtml#b201)
+69. Ch. D. Poston
 70. Ein Schiffbruch
 71. Ein Capital verloren
 72. Ein Cavalier mit seiner Dame

@@ -254,7 +254,7 @@ folgte.
 ![Zusammentreffen mit Butterworth.](Abenteuer_im_Apachenlande_0192.jpg "Zusammentreffen mit Butterworth."){#b192}
 ::::
 
-Wie Herr Butterworth nach Santa Cruz gelangte, wo er sich ganz nen equipiren
+Wie Herr Butterworth nach Santa Cruz gelangte, wo er sich ganz neu equipiren
 mußte, wie er wieder in den Besitz seines Reise- und seines Gepäckwagens
 gekommen und mit seinen Freunden Küstel und Higgins zu Tubac zusammen getroffen,
 wie er weiter den Cerro Colorado in Angenschein genommen und dann, nachdem er
@@ -295,5 +295,3 @@ Scenerien auf unserem Wege vollständig auszuführen.
 ::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
-
-[^2100]: [*General Carleton*: vergleiche [James Henry Carleton](https://en.wikipedia.org/wiki/James_Henry_Carleton)]{.footnote}
