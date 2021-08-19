@@ -59,11 +59,11 @@
 57. [Die Mowry-Mine](ch024.xhtml#b179)
 58. [Sylvester Mowry](ch024.xhtml#b181)
 59. [Hauptsitz und Werkstätte der Mowry-Silbermine](ch024.xhtml#b182)
-60. Lager an den Pinitos-Bergen
-61. Schildwache
-62. Samuel F. Butterworth
-63. Angriff auf Herrn Butterworth
-64. Zusammentreffen mit Butterworth
+60. [Lager an den Pinitos-Bergen](ch025.xhtml#b185)
+61. [Schildwache](ch025.xhtml#b186)
+62. [Samuel F. Butterworth](ch025.xhtml#b188)
+63. [Angriff auf Herrn Butterworth](ch025.xhtml#b189)
+64. [Zusammentreffen mit Butterworth](ch025.xhtml#b192)
 65. Landsitz der Santa Rita-Minen-Gesellschaft
 66. Sandsteinsäulen
 67. Die Salero-Mine
