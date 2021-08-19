@@ -45,8 +45,8 @@ oder Mowry-Mine von den Apachen umgebracht worden.^[^2000]^
 Es war am 29. December in früher Morgenstunde — Herr  Yerkes war gerade in
 seinem Zimmerchen mit seinem Frühstück beschäftigt — als die Herren Mills und
 Stevens zu Pferde hier eintrafen und auf ihrem Wege von Santa Cruz nach der
-MowryMine hier Halt machten. Mills war ein Angestellter des Mineneigenthümers
-Sylvester Mowry, Esq., und stand gerade im Begriff, die Leitung der
+Mowry-Mine hier Halt machten. Mills war ein Angestellter des Mineneigenthümers
+Sylvester Mowry^[^2001]^, Esq., und stand gerade im Begriff, die Leitung der
 Minenarbeiten dem Herrn Stevens zu übergeben, der eben in Gesellschaft des Herrn
 Samuel F. Butterworth, Präsidenten der Arizona-Minen-Gesellschaft von Guyamas
 eingetroffen war. Die Entfernung von Santa Cruz nach der Patagonia-Mine — wie
@@ -172,4 +172,6 @@ December 29. 1863.<br />
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^2000]: [[A CALIFORNIA PARTY ATTACKED BY THE APACHES IN ARIZONA, AND TWO OF THEIR NUMBER KILLED.](https://cdnc.ucr.edu/?a=d&d=DAC18640209.2.8&e=-------en--20--1--txt-txIN--------1)]{.footnote}
+[^2000]: [Vergleiche [Mowry massacres](https://en.wikipedia.org/wiki/Mowry_massacres)]{.footnote}
+
+[^2001]: [*Sylvester Mowry*: vergleiche [Sylvester Mowry](https://en.wikipedia.org/wiki/Sylvester_Mowry)]{.footnote}

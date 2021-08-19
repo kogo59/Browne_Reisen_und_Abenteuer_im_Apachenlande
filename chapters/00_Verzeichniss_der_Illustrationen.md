@@ -55,10 +55,10 @@
 53. [Landhaus San Antonio](ch023.xhtml#b170)
 54. [Der Ort, wo Mills und Stevens angegriffen wurden](ch023.xhtml#b172)
 55. [Stiefel, Kopfputz, Sattel etc. der Apachen](ch023.xhtml#b173)
-56. Landhaus der Mowry-Mine
-57. Die Mowry-Mine
-58. Sylvester Mowry
-59. Hauptsitz und Werkstätte der Mowry-Silbermine
+56. [Landhaus der Mowry-Mine](ch024.xhtml#b177)
+57. [Die Mowry-Mine](ch024.xhtml#b179)
+58. [Sylvester Mowry](ch024.xhtml#b181)
+59. [Hauptsitz und Werkstätte der Mowry-Silbermine](ch024.xhtml#b182)
 60. Lager an den Pinitos-Bergen
 61. Schildwache
 62. Samuel F. Butterworth
