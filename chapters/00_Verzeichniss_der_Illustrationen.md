@@ -68,12 +68,12 @@
 66. [Sandsteinsäulen](ch026.xhtml#b199)
 67. [Die Salero-Mine](ch026.xhtml#b200)
 68. [Ein Grab auf der Santa Cruz-Straße](ch026.xhtml#b201)
-69. Ch. D. Poston
-70. Ein Schiffbruch
-71. Ein Capital verloren
-72. Ein Cavalier mit seiner Dame
-73. Ein Zug auf dem Berge
-74. Die Arastra
+69. [Ch. D. Poston](ch027.xhtml#b205)
+70. [Ein Schiffbruch](ch027.xhtml#b206)
+71. [Ein Capital verloren](ch027.xhtml#b207)
+72. [Ein Cavalier mit seiner Dame](ch027.xhtml#b209)
+73. [Ein Zug auf dem Berge](ch027.xhtml#b219)
+74. [Die Arastra](ch027.xhtml#b221)
 75. Die Heintzelman-Mine und Werke
 76. Der Baboquivori
 77. Unser Packesel
