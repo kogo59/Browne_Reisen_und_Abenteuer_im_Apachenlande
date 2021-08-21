@@ -74,7 +74,7 @@
 72. [Ein Cavalier mit seiner Dame](ch027.xhtml#b209)
 73. [Ein Zug auf dem Berge](ch027.xhtml#b219)
 74. [Die Arastra](ch027.xhtml#b221)
-75. Die Heintzelman-Mine und Werke
+75. [Die Heintzelman-Mine und Werke](ch029.xhtml#b233)
 76. Der Baboquivori
 77. Unser Packesel
 78. Ein Arizonier angesichts seiner Heimath
