@@ -76,11 +76,11 @@
 74. [Die Arastra](ch027.xhtml#b221)
 75. [Die Heintzelman-Mine und Werke](ch029.xhtml#b233)
 76. [Der Baboquivori](ch031.xhtml#b248)
-77. Unser Packesel
-78. Ein Arizonier angesichts seiner Heimath
-79. Nachtscene in den Gebirgen
-80. Silbermine in San Franciso
-81. Schmutz-Mike
+77. [Unser Packesel](ch032.xhtml#b252)
+78. [Ein Arizonier angesichts seiner Heimath](ch032.xhtml#b253)
+79. [Nachtscene in den Gebirgen](ch033.xhtml#b261)
+80. [Silbermanie in San Franciso](ch033.xhtml#b262)
+81. [Schmutz-Mike](ch033.xhtml#b264)
 82. Abfahrt von Fulsom
 83. Staub genug
 84. Goldstaub

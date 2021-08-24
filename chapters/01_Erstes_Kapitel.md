@@ -1,4 +1,4 @@
-# **Erste Reise.**<br />Unterwegs in Arizona und Sonora.<br />1863 {#reins .unnumbered}
+# **Erste Reise.**<br />Unterwegs in Arizona und Sonora. {#reins .unnumbered}
 
 ## <small>Erstes Kapitel.</small><br />Der Gadsdenkauf.
 
