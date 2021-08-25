@@ -81,12 +81,12 @@
 79. [Nachtscene in den Gebirgen](ch033.xhtml#b261)
 80. [Silbermanie in San Franciso](ch033.xhtml#b262)
 81. [Schmutz-Mike](ch033.xhtml#b264)
-82. Abfahrt von Fulsom
-83. Staub genug
-84. Goldstaub
-85. Alles drunter und drüber
-86. Der alte Charlie
-87. Gefährliches Geröll.
+82. [Abfahrt von Fulsom](ch034.xhtml#b269)
+83. [Staub genug](ch034.xhtml#b274)
+84. [Goldstaub](ch034.xhtml#b275)
+85. [Alles drunter und drüber](ch034.xhtml#b281)
+86. [Der alte Charlie](ch034.xhtml#b286)
+87. [Gefährliches Geröll](ch034.xhtml#b291)
 88. Scene in der Sierra Nevada
 89. Job
 90. Felsenspitze am Tahoe-See
