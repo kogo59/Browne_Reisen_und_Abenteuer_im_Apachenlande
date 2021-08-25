@@ -87,10 +87,10 @@
 85. [Alles drunter und drüber](ch034.xhtml#b281)
 86. [Der alte Charlie](ch034.xhtml#b286)
 87. [Gefährliches Geröll](ch034.xhtml#b291)
-88. Scene in der Sierra Nevada
-89. Job
-90. Felsenspitze am Tahoe-See
-91. Station auf der Washoe-Straße
+88. [Scene in der Sierra Nevada](ch035.xhtml#b295)
+89. [Job](ch035.xhtml#b298)
+90. [Felsenspitze am Tahoe-See](ch035.xhtml#b300)
+91. [Station auf der Washoe-Straße](ch035.xhtml#b302)
 92. Scene in Virginia-Stadt
 93. Erz für die Stampfmühle
 94. Eine unerwartete Sprengung
