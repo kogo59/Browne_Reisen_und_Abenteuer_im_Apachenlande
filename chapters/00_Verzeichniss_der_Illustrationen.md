@@ -91,16 +91,16 @@
 89. [Job](ch035.xhtml#b298)
 90. [Felsenspitze am Tahoe-See](ch035.xhtml#b300)
 91. [Station auf der Washoe-Straße](ch035.xhtml#b302)
-92. Scene in Virginia-Stadt
-93. Erz für die Stampfmühle
-94. Eine unerwartete Sprengung
-95. Leyermädchen
-96. Herberge für Jünglinge
-97. Tägliche Auctionen
-98. Des Verfassers Empfang in Virginia-Stadt
-99. Dividenden .
-100. Steuern
-101. Klima von Virginia Cityy
+92. [Scene in Virginia-Stadt](ch036.xhtml#b305)
+93. [Erz für die Stampfmühle](ch036.xhtml#b307)
+94. [Eine unerwartete Sprengung](ch036.xhtml#b309)
+95. [Leyermädchen](ch036.xhtml#b310)
+96. [Herberge für Jünglinge](ch036.xhtml#b312)
+97. [Tägliche Auctionen](ch036.xhtml#b313)
+98. [Des Verfassers Empfang in Virginia-Stadt](ch036.xhtml#b315)
+99. [Dividenden](ch036.xhtml#b317)
+100. [Steuern](ch036.xhtml#b318)
+101. Klima von Virginia City
 102. Büreaus und Sitz der Gould- und Curry-Gesellschaft .
 103. Die Damen des Hotels
 104. Hintenansicht der Ophirwerke
