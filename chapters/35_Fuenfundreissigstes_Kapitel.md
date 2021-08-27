@@ -254,6 +254,10 @@ Urtheil fällen, das sie nicht bei der unterliegenden Partei verhaßt machen
 müßte. Was den Washoiten noth thut, sind Richter, die geradezu Schurken sind,
 dabei aber die Schurkerei mit Anstand zu treiben verstehen!
 
+:::: {.wrap-100 .break-before }
+![Die Reductions-Werke der Gould- und Curry-Gesellschaft.](Abenteuer_im_Apachenlande_0340.jpg "Die Reductions-Werke der Gould- und Curry-Gesellschaft."){#b340}
+::::
+
 :::
 
 

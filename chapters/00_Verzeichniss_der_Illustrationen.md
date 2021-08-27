@@ -107,9 +107,9 @@
 105. [Ein Schacht](ch038.xhtml#b333)
 106. [Zur Seite, meine Herren!](ch038.xhtml#b336)
 107. [Einsinken des Mexicanschachtes](ch038.xhtml#b338)
-108. Die Reductions-Werke der Gould- und Curry-Gesellschaft
-109. Eine Versammlung von Actionairen
-110. Ein Kampf in Erwartung
+108. [Die Reductions-Werke der Gould- und Curry-Gesellschaft](ch038.xhtml#b340)
+109. [Eine Versammlung von Actionairen](ch039.xhtml#b344)
+110. [Ein Kampf in Erwartung](ch039.xhtml#b345)
 111. Indianer, die Steuern eintreiben
 112. Auf nach Bodie!
 113. Fogus's Mühle
