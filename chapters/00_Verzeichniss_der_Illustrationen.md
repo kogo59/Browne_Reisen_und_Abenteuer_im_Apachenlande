@@ -110,7 +110,7 @@
 108. [Die Reductions-Werke der Gould- und Curry-Gesellschaft](ch038.xhtml#b340)
 109. [Eine Versammlung von Actionairen](ch039.xhtml#b344)
 110. [Ein Kampf in Erwartung](ch039.xhtml#b345)
-111. Indianer, die Steuern eintreiben
+111. [Indianer, die Steuern eintreiben](ch040.xhtml#b348)
 112. Auf nach Bodie!
 113. Fogus's Mühle
 114. Real del Monte- und Antelope-Mühlen
