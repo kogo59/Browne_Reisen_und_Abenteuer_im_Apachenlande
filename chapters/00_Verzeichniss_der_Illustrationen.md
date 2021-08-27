@@ -103,10 +103,10 @@
 101. [Klima von Virginia City](ch037.xhtml#b321)
 102. [Büreaus und Sitz der Gould- und Curry-Gesellschaft](ch037.xhtml#b324)
 103. [Die Damen des Hotels](ch037.xhtml#b326)
-104. Hintenansicht der Ophirwerke
-105. Ein Schach
-106. Zur Seite, meine Herren!
-107. Einsinken des Mexicanschachtes
+104. [Hintenansicht der Ophirwerke](ch038.xhtml#b332)
+105. [Ein Schacht](ch038.xhtml#b333)
+106. [Zur Seite, meine Herren!](ch038.xhtml#b336)
+107. [Einsinken des Mexicanschachtes](ch038.xhtml#b338)
 108. Die Reductions-Werke der Gould- und Curry-Gesellschaft
 109. Eine Versammlung von Actionairen
 110. Ein Kampf in Erwartung
