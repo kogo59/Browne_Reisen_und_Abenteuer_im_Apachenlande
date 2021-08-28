@@ -111,17 +111,17 @@
 109. [Eine Versammlung von Actionairen](ch039.xhtml#b344)
 110. [Ein Kampf in Erwartung](ch039.xhtml#b345)
 111. [Indianer, die Steuern eintreiben](ch040.xhtml#b348)
-112. Auf nach Bodie!
-113. Fogus's Mühle
-114. Real del Monte- und Antelope-Mühlen
-115. Das Innere einer Minenhütte.
-116. Bodie Bluff
-117. Seitwärts gehalten
-118. Voran, Herr!
-119. Ein gefährlicher Moment
-120. Die Minen zu Bodie
-121. Inneres des Bodie-Bunkers
-122. Browne-Straße in Bodie.
+112. [Auf nach Bodie!](ch041.xhtml#b353)
+113. [Fogus's Mühle](ch041.xhtml#b355)
+114. [Real del Monte- und Antelope-Mühlen](ch041.xhtml#b358)
+115. [Das Innere einer Minenhütte](ch041.xhtml#b359)
+116. [Bodie Bluff](ch041.xhtml#b361)
+117. [Seitwärts gehalten](ch042.xhtml#b367)
+118. [Voran, Herr!](ch042.xhtml#b369)
+119. [Ein gefährlicher Moment](ch042.xhtml#b372)
+120. [Die Minen zu Bodie](ch042.xhtml#b374)
+121. [Inneres des Bodie-Bunkers](ch042.xhtml#b375)
+122. [Browne-Straße in Bodie](ch042.xhtml#b376)
 123. Eine Dachshetze
 124. Ein Wolkenbruch in der Schlucht
 125. Stadt Mono
