@@ -122,8 +122,8 @@
 120. [Die Minen zu Bodie](ch042.xhtml#b374)
 121. [Inneres des Bodie-Bunkers](ch042.xhtml#b375)
 122. [Browne-Straße in Bodie](ch042.xhtml#b376)
-123. Eine Dachshetze
-124. Ein Wolkenbruch in der Schlucht
+123. [Eine Dachshetze](ch043.xhtml#b379)
+124. [Ein Wolkenbruch in der Schlucht](ch044.xhtml#b384)
 125. Stadt Mono
 126. Ufer des Sees
 127. Mono-See

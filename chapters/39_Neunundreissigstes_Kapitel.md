@@ -453,5 +453,3 @@ vermindern.
 ::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
-
-[^3900]: [*Bodie Bluff*: vergleiche [Bodie](https://de.wikipedia.org/wiki/Bodie)]{.footnote}
