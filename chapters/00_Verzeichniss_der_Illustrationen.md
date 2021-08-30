@@ -127,15 +127,15 @@
 125. [Stadt Mono](ch045.xhtml#b389)
 126. [Ufer des Sees](ch045.xhtml#b392)
 127. [Mono-See](ch045.xhtml#b394)
-128. Fort, nach Walker River!
-129. Alles drunter und drüber
+128. [Fort, nach Walker River!](ch046.xhtml#b403)
+129. [Alles drunter und drüber](ch046.xhtml#b408)
 130. Eine Emigranten-Familie
 131. Granitblöcke
 182. Eisenberg
 133. Ein Vortrag über die Minen
 134. Stadt Austin
 135. Die Keyston-Mühle
-136. Canon City — Buel's Mühle
+136. Canyon City — Buel's Mühle
 137. Das Oregonlager
 138. Die Hauptminen
 139. Die Parrott-Mühle
