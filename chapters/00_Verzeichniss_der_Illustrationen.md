@@ -124,9 +124,9 @@
 122. [Browne-Straße in Bodie](ch042.xhtml#b376)
 123. [Eine Dachshetze](ch043.xhtml#b379)
 124. [Ein Wolkenbruch in der Schlucht](ch044.xhtml#b384)
-125. Stadt Mono
-126. Ufer des Sees
-127. Mono-See
+125. [Stadt Mono](ch045.xhtml#b389)
+126. [Ufer des Sees](ch045.xhtml#b392)
+127. [Mono-See](ch045.xhtml#b394)
 128. Fort, nach Walker River!
 129. Alles drunter und drüber
 130. Eine Emigranten-Familie

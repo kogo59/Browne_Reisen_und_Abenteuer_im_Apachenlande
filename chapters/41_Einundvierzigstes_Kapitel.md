@@ -38,7 +38,7 @@ bot wie eine Riesenwoge, die bei einem Sturme an die Küste braust. Sie machten
 den Versuch, die Pferde die eine Seite hinaufzuzerren, so daß der Wagen vor dem
 Wasserstrome gesichert bliebe. Bevor dies aber gelingen konnte, brach der Strom
 auf sie ein, Alles mit sich fortwälzend, so daß der Wagen umschlug und an den
-Felsen zertrümmert wurde. . . Das Jammergeschrei der Frauen und Kinder übertönte
+Felsen zertrümmert wurde... Das Jammergeschrei der Frauen und Kinder übertönte
 das wilde Brausen der Fluth, einen Moment sah man sie sich unter den Trümmern
 des Wagens durchkämpfen, aber bald von der Gewalt des Stromes erfaßt, wurden sie
 auch an die Felsen geschleudert. Einem der beiden Männer gelang es durch
