@@ -129,7 +129,7 @@
 127. [Mono-See](ch045.xhtml#b394)
 128. [Fort, nach Walker River!](ch046.xhtml#b403)
 129. [Alles drunter und drüber](ch046.xhtml#b408)
-130. Eine Emigranten-Familie
+130. [Eine Emigranten-Familie](ch047.xhtml#b413)
 131. Granitblöcke
 182. Eisenberg
 133. Ein Vortrag über die Minen
