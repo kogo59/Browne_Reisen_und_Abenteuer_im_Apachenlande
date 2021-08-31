@@ -130,9 +130,9 @@
 128. [Fort, nach Walker River!](ch046.xhtml#b403)
 129. [Alles drunter und drüber](ch046.xhtml#b408)
 130. [Eine Emigranten-Familie](ch047.xhtml#b413)
-131. Granitblöcke
-182. Eisenberg
-133. Ein Vortrag über die Minen
+131. [Granitblöcke](ch049.xhtml#b422)
+182. [Eisenberg](ch049.xhtml#b424)
+133. [Ein Vortrag über die Minen](ch049.xhtml#b430)
 134. Stadt Austin
 135. Die Keyston-Mühle
 136. Canyon City — Buel's Mühle
