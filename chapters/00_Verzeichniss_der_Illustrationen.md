@@ -133,25 +133,25 @@
 131. [Granitblöcke](ch049.xhtml#b422)
 182. [Eisenberg](ch049.xhtml#b424)
 133. [Ein Vortrag über die Minen](ch049.xhtml#b430)
-134. Stadt Austin
-135. Die Keyston-Mühle
-136. Canyon City — Buel's Mühle
-137. Das Oregonlager
-138. Die Hauptminen
-139. Die Parrott-Mühle
-140. Das große Magniff-Lager .
-141. Logis im Schafhofe
-142. Ein Logis am Pfosten
-143. Die Midas-Mine
-144. Oregon-Mühle — Ober-Austin
-145. Indianer vom Reese River
-146. Die Midas-Mühle
+134. [Stadt Austin](ch050.xhtml#b434)
+135. [Die Keyston-Mühle](ch051.xhtml#b437)
+136. [Canyon City — Buel's Mühle](ch051.xhtml#b438)
+137. [Das Oregonlager](ch051.xhtml#b440)
+138. [Die Hauptminen](ch051.xhtml#b441)
+139. [Die Parrott-Mühle](ch051.xhtml#b442)
+140. [Das große Magniff-Lager](ch051.xhtml#b443)
+141. [Logis im Schafhofe](ch051.xhtml#b444)
+142. [Ein Logis am Pfosten](ch051.xhtml#b445)
+143. [Die Midas-Mine](ch051.xhtml#b446)
+144. [Oregon-Mühle — Ober-Austin](ch051.xhtml#b447)
+145. [Indianer vom Reese River](ch051.xhtml#b448)
+146. [Die Midas-Mühle](ch051.xhtml#b449)
 147. Rankin's Haus in Austin
 148. Ein Candidat für die Mayorwürde.
 149. Austin Sanitary Flour
 150. Der Gridley-Sack auf der Auction.
 151. Speculanten zu New-York
-152. Die Confidence--Mühle
+152. Die Confidence-Mühle
 153. Batterie und Amalgamirungskammer
 154. Inneres der Buel-Mühle
 155. Röstkammer der Midas-Mühle

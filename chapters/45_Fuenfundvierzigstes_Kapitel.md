@@ -97,7 +97,7 @@ Abe Lincoln!“ Nicht wahr, unser Vaterland ist wohlbestellt, wenn es auf uns
 ankäme!“
 
 Ich pflichtete ihr bei, und nachdem ich ihr meine Anerkennung ausgesprochen, gab
-ich Timotheus einen Wink, weiter zu fahren
+ich Timotheus einen Wink, weiter zu fahren.
 
 :::
 
