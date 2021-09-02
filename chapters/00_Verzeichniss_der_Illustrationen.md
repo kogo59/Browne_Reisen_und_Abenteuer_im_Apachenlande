@@ -146,10 +146,10 @@
 144. [Oregon-Mühle — Ober-Austin](ch051.xhtml#b447)
 145. [Indianer vom Reese River](ch051.xhtml#b448)
 146. [Die Midas-Mühle](ch051.xhtml#b449)
-147. Rankin's Haus in Austin
-148. Ein Candidat für die Mayorwürde.
-149. Austin Sanitary Flour
-150. Der Gridley-Sack auf der Auction.
+147. [Rankin's Haus in Austin](ch051.xhtml#b451)
+148. [Ein Candidat für die Mayorwürde](ch052.xhtml#b452)
+149. [Austin Sanitary Flour](ch052.xhtml#b453)
+150. [Der Gridley-Sack auf der Auction](ch052.xhtml#b455)
 151. Speculanten zu New-York
 152. Die Confidence-Mühle
 153. Batterie und Amalgamirungskammer
