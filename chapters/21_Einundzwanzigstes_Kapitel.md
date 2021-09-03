@@ -166,7 +166,7 @@ der — mag er auch nicht so wohlklingend lauten — mindestens nicht an das Geh
 des Windes und an thranige Wilde die Erinnerung weckt.
 
 :::: {.wrap-100  .break-before }
-![Hauptsitz und Werkstätte der Mowry-Silbermine.](Abenteuer_im_Apachenlande_0179.jpg "Hauptsitz und Werkstätte der Mowry-Silbermine."){#b179}
+![Hauptsitz und Werkstätte der Mowry-Silbermine.](Abenteuer_im_Apachenlande_0182.jpg "Hauptsitz und Werkstätte der Mowry-Silbermine."){#b182}
 ::::
 
 :::

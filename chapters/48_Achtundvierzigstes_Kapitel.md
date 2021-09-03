@@ -221,7 +221,7 @@ die Tasche stecken.
 ![Logis im Schafhofe.](Abenteuer_im_Apachenlande_0444.jpg "Logis im Schafhofe."){#b444}
 ::::
 
-:::: {.w-50 .float-right  }
+:::: {.w-50 .float-right .break-before }
 ![Ein Logis am Pfosten.](Abenteuer_im_Apachenlande_0445.jpg "Ein Logis am Pfosten."){#b445}
 ::::
 
