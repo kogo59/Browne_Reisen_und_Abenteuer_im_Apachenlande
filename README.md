@@ -21,3 +21,6 @@ before January 1, 1925.
 
 # Sources
 Reisen und Abenteuer im Apachenlande. [archive.org](https://archive.org/details/reisenundabenteu01brow)
+
+# ePUB
+Reisen und Abenteuer im Apachenlande. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=341570)
