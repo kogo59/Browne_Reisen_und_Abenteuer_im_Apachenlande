@@ -37,8 +37,6 @@ epub: $(BUILD)/epub/$(OUTPUT_FILENAME).epub
 
 html: $(BUILD)/html/$(OUTPUT_FILENAME).html
 
-pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
-
 docx: $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \

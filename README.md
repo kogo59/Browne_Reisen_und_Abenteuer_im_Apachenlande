@@ -1,5 +1,7 @@
 #  Reisen und Abenteuer im Apachenlande.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193361672-4dc364a6-d4af-47eb-bcf9-f83af16d5fc1.jpg">
+
 This is a git repository of the source files for the book
 "Reisen und Abenteuer im Apachenlande."
 
