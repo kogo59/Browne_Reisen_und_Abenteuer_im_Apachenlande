@@ -10,6 +10,10 @@ Author:
 
 
 # Licenses
+The author died in 1875, so this work is in the public domain in its country of
+origin and other countries and areas where the copyright term is the author's life
+plus 140 years or fewer.
+
 This work is in the public domain in the United States because it was
 published (or registered with the U.S. Copyright Office)
 before January 1, 1925.
