@@ -22,7 +22,4 @@ before January 1, 1925.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Reisen und Abenteuer im Apachenlande. [archive.org](https://archive.org/details/reisenundabenteu01brow)
-
-# ePUB
-Reisen und Abenteuer im Apachenlande. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=341570)
+Reisen und Abenteuer im Apachenlande. [hathi](https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t6sx8g67s&seq=9)
