@@ -159,10 +159,5 @@ Californien zurück zu gelangen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2601]: [*Cerro Colorado*: vergleiche [Cerro Colorado, Arizona](https://en.wikipedia.org/wiki/Cerro_Colorado,_Arizona)]{.footnote}

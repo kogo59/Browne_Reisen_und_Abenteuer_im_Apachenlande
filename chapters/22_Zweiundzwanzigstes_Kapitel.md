@@ -290,8 +290,3 @@ Scenerien auf unserem Wege vollständig auszuführen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -270,11 +270,6 @@ herausfordern möchte. —
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [*Gila-Stadt*: vergleiche [Gila City](https://en.wikipedia.org/wiki/Gila_City,_Arizona)]{.footnote}
 

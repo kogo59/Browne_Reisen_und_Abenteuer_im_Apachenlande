@@ -1,4 +1,4 @@
-# **Erste Reise.**<br />Unterwegs in Arizona und Sonora. {#reins .unnumbered}
+# **Erste Reise.**<br />Unterwegs in Arizona und Sonora. {#reins .break-before .unnumbered}
 
 ## <small>Erstes Kapitel.</small><br />Der Gadsdenkauf.
 
@@ -416,11 +416,6 @@ Ausrottung!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [Expedition des Don Garcia Lopez de Cardenas unter der Führung von Coronado 1540.]{.footnote}
 

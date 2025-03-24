@@ -171,10 +171,5 @@ des Windes und an thranige Wilde die Erinnerung weckt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2100]: [*General Carleton*: vergleiche [James Henry Carleton](https://en.wikipedia.org/wiki/James_Henry_Carleton)]{.footnote}

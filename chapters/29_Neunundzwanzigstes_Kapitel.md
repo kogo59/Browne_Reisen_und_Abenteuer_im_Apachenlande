@@ -455,11 +455,4 @@ Santa Fe                            76
 ----------------------------  -----------------
 ::::
 
-:::: align-center
-****
-::::
-
 :::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}

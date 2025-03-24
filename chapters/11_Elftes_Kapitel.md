@@ -126,10 +126,5 @@ machen, die sonst schwer zu finden wären.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Sharpes-Carabiner*: vergleiche [Sharps Rifle](https://de.wikipedia.org/wiki/Sharps_Rifle)]{.footnote}

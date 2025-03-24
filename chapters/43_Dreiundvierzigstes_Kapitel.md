@@ -1,4 +1,4 @@
-# **Das Walker River-Land.**{#rfuenf .unnumbered}
+# **Das Walker River-Land.**{#rfuenf .unnumbered .break-before }
 
 ## <small>Dreiundvierzigstes Kapitel.</small><br />Ein Sturz.
 
@@ -269,13 +269,6 @@ Gipfel aus wir eine großartige Aussicht auf Walker's Thal und die
 Bullion-Gebirgskette nach Süden zu genossen.
 
 :::
-
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^4300]: [*Walker River*: vergleiche [Walker River](https://en.wikipedia.org/wiki/Walker_River)]{.footnote}
 

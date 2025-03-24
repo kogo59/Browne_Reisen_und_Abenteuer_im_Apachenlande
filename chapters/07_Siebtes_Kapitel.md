@@ -344,8 +344,3 @@ viel ich gehört, leben sie Beide heute im Staate New-York.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

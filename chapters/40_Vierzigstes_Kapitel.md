@@ -1,4 +1,4 @@
-# **Das Todte Meer des Westens.**{#rvier .unnumbered}
+# **Das Todte Meer des Westens.**{#rvier .unnumbered .break-before }
 
 ## <small>Vierzigstes Kapitel.</small><br />Eine Dachshetze.
 
@@ -150,9 +150,3 @@ ritten von dannen!
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -360,12 +360,6 @@ Ausflug nach Bodie Bluff und dem „Todten Meere des Westens“ nicht zu bedauer
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^4200]: [*Stadt Mono*: vergleiche [Mono City, California](https://en.wikipedia.org/wiki/Mono_City,_California)]{.footnote}
 
 [^4202]: [*Berg Dana*: vergleiche [Mount Dana](https://en.wikipedia.org/wiki/Mount_Dana)]{.footnote}

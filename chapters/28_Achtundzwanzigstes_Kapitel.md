@@ -281,12 +281,6 @@ Papagoria!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^2800]: [*Cereas giganteus*: vergleiche [Carnegiea gigantea](https://de.wikipedia.org/wiki/Carnegiea_gigantea)]{.footnote}
 
 [^2801]: [*Papago-Indianer*: vergleiche [Tohono O’Odham](https://de.wikipedia.org/wiki/Tohono_O%E2%80%99Odham)]{.footnote}

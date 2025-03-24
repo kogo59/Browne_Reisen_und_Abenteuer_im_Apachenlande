@@ -346,10 +346,4 @@ hindurchzuarbeiten.
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^4800]: [*Fremont*: vergleiche [John C. Frémont](https://de.wikipedia.org/wiki/John_C._Fr%C3%A9mont)]{.footnote}

@@ -125,8 +125,3 @@ Feinde diene, sich ja nicht wieder in ihre Nachbarschaft zu wagen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -230,11 +230,6 @@ gelegen, bot ein zweites schlagendes Zeugniß für den moralischen Fortschritt!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3200]: [*John Bigler*: vergleiche [John Bigler](https://en.wikipedia.org/wiki/John_Bigler)]{.footnote}
 

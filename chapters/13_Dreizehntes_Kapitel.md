@@ -142,10 +142,5 @@ Geschichte von Arizona.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*Mission San Xavier del Bac*: vergleiche [Mission San Xavier del Bac](https://de.wikipedia.org/wiki/Mission_San_Xavier_del_Bac)]{.footnote}

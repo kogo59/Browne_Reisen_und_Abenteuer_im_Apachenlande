@@ -273,9 +273,3 @@ Francisco führt.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

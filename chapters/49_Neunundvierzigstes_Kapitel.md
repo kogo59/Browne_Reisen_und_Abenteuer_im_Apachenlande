@@ -155,11 +155,4 @@ unter den Lebenden — doch politisch ist er heute todt!
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^4900]: [*Gridley*: vergleiche [Reuel Colt Gridley](https://en.wikipedia.org/wiki/Reuel_Colt_Gridley)]{.footnote}

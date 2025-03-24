@@ -275,10 +275,4 @@ umher.
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^5200]: [*Toyabe-Gebirge*: vergleiche [Toiyabe Range](https://en.wikipedia.org/wiki/Toiyabe_Range)]{.footnote}

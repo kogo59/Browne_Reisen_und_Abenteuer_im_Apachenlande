@@ -129,10 +129,5 @@ entfernt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2700]: [*Babaquivori-Berge*: vergleiche [Baboquivari Peak Wilderness](https://en.wikipedia.org/wiki/Baboquivari_Peak_Wilderness)]{.footnote}

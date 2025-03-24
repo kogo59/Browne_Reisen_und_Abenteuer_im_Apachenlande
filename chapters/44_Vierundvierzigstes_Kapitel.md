@@ -176,9 +176,3 @@ Anderer leben, Beschäftigung finden würde.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

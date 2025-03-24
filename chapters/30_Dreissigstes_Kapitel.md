@@ -1,4 +1,4 @@
-# **Zweite Reise nach Washoe.**{#rzwei .unnumbered}
+# **Zweite Reise nach Washoe.**{#rzwei .unnumbered .break-before}
 
 ## <small>Dreißigstes Kapitel.</small><br />Spießruthenlaufen.
 
@@ -194,14 +194,8 @@ die meine Freunde an mich richteten, und sie bewiesen mir nur, daß es in Washoe
 noch nicht geheuer und daß die Gesellschaftszustände in Virginia-Stadt in
 moralischer Beziehung noch keine besseren geworden zu sein schienen.
 
-
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3000]: [*Washoe*: vergleiche [Washoe County, Nevada](https://en.wikipedia.org/wiki/Washoe_County,_Nevada)]{.footnote}
 

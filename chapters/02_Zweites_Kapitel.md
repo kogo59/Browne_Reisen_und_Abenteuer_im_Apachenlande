@@ -511,12 +511,6 @@ Sonnenbrande des Colorado preisgegeben!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0200]: [*Mojave*: vergleiche [Mohave](https://de.wikipedia.org/wiki/Mohave)]{.footnote}
 
 [^0201]: [*Wilmington*: vergleiche [Wilmington, Los Angeles](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles)]{.footnote}

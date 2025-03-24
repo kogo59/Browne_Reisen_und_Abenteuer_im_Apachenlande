@@ -538,11 +538,6 @@ worden!“
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2400]: [*Guadaloupe-Hidalgo-Vertrag*: vergleiche [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo)]{.footnote}
 

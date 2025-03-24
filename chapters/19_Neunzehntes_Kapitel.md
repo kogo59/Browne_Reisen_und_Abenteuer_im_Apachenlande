@@ -91,11 +91,6 @@ benachbarten Schlucht gefunden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1900]: [Wer weiß?]{.footnote}
 

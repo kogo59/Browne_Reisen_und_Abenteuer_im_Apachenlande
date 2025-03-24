@@ -402,10 +402,4 @@ Selbstzuversicht, hin, der in der That belustigend zu nennen ist.
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^3300]: [*Empire City*: vergleiche [Empire and the Carson River mills](https://en.wikipedia.org/wiki/Empire_and_the_Carson_River_mills)]{.footnote}

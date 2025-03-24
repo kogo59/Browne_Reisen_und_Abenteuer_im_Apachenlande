@@ -338,11 +338,6 @@ so bald als möglich in Erwägung ziehen werde.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [*Tubac*: vergleiche [Tubac, Arizona](https://en.wikipedia.org/wiki/Tubac,_Arizona)]{.footnote}
 

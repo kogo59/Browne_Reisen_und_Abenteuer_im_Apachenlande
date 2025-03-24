@@ -242,11 +242,6 @@ Reisegefährten Ammi White, daß wir einen persönlichen Verlust erlitten hatten
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [*Sacatone-Station*: vergleiche [Socatoon Station](https://en.wikipedia.org/wiki/Socatoon_Station)]{.footnote}
 

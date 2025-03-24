@@ -138,9 +138,3 @@ hätte Geld gewonnen, wenn er sie früher verkauft haben würde!
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

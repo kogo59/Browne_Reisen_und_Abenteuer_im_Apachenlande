@@ -201,10 +201,5 @@ der ganzen Tour fiel es Niemandem ein, ein Schwein oder ein Huhn zu stehlen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Tucson*: vergleiche [Tucson](https://de.wikipedia.org/wiki/Tucson)]{.footnote}

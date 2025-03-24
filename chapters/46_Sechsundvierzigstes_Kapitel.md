@@ -307,9 +307,3 @@ Oakland zurück, wenn auch nicht reicher, doch klüger geworden.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

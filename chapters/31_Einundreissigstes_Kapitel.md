@@ -775,11 +775,6 @@ halten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3100]: [*Sacramento*: vergleiche [Sacramento, California](https://en.wikipedia.org/wiki/Sacramento,_California)]{.footnote}
 

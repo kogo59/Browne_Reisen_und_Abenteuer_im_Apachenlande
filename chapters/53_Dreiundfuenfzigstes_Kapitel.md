@@ -74,7 +74,6 @@ Sparsamkeit betrieben werden.
 <br /><br /><br /><br />Druck von G. Pätz in Naumburg a. S.
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^5300]: [*Freiberger Walzproceß*: vergleiche [Wälzprozess](https://de.wikipedia.org/wiki/W%C3%A4lzprozess)]{.footnote}
 

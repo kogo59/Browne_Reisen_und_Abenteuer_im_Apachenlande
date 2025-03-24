@@ -166,11 +166,6 @@ December 29. 1863.<br />
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2000]: [Vergleiche [Mowry massacres](https://en.wikipedia.org/wiki/Mowry_massacres)]{.footnote}
 

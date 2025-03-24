@@ -211,11 +211,6 @@ aber auch reich durch seine Familie, — Hoch lebe Don Diego!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*O. M. Wogencraft*: vergleiche [O. M. Wozencraft](https://en.wikipedia.org/wiki/O._M._Wozencraft)]{.footnote}
 

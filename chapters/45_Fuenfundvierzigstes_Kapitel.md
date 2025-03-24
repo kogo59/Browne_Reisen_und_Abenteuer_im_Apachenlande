@@ -101,9 +101,3 @@ ich Timotheus einen Wink, weiter zu fahren.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

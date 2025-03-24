@@ -128,10 +128,4 @@ Tatarei machen und mit einer Kameelreise durch Persien meinen Ausflug beenden.
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^3700]: [*Augustus Murray*: vergleiche [Charles Augustus Murray](https://en.wikipedia.org/wiki/Charles_Murray_(author_and_diplomat))]{.footnote}

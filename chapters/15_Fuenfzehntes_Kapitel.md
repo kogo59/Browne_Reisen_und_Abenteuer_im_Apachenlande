@@ -202,10 +202,5 @@ arbeiten, so siechen sie hin und sterben aus.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1500]: [*Imuriz*: vergleiche [Ímuris](https://en.wikipedia.org/wiki/%C3%8Dmuris)]{.footnote}

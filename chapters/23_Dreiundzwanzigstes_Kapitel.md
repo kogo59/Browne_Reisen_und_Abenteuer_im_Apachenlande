@@ -210,11 +210,7 @@ lagen die Gräber von Erschlagenen!
 
 :::
 
-:::: align-center
-****
-::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2300]: [*Santa Rita-Gebirge*: vergleiche [Santa Rita Mountains](https://en.wikipedia.org/wiki/Santa_Rita_Mountains)]{.footnote}
 

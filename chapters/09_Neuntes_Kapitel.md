@@ -167,10 +167,5 @@ dem Tage, wo die Todten auferstehen! —
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0900]: [*Pimos*: vergleiche [Pima](https://de.wikipedia.org/wiki/Pima)]{.footnote}

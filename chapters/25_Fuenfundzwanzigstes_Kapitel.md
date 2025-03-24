@@ -241,11 +241,6 @@ ist!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2500]: [Spanische Elle (gegen drei Fuß).]{.footnote}
 

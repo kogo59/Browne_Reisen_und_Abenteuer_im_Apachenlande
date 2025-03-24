@@ -192,11 +192,6 @@ solcher Vorsicht und Ueberlegung, daß der Erfolg mich mit Staunen erfüllte!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Antonio de Espejo*: vergleiche [Antonio de Espejo](https://en.wikipedia.org/wiki/Antonio_de_Espejo)]{.footnote}
 

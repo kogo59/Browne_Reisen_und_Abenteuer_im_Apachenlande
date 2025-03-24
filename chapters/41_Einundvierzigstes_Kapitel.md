@@ -125,9 +125,3 @@ schließen, schienen sie hier gut vorwärts zu kommen.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

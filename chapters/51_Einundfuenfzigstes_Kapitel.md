@@ -329,13 +329,6 @@ Idaho und Montana zu sprechen.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^5100]: [*Armagosa*: vergleiche [Amargosa River](https://en.wikipedia.org/wiki/Amargosa_River)]{.footnote}
 
 [^5101]: [*Todtenthal*: vergleiche [Death Valley](https://en.wikipedia.org/wiki/Death_Valley)]{.footnote}

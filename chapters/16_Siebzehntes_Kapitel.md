@@ -109,8 +109,3 @@ die Kunst sie geschaffen!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

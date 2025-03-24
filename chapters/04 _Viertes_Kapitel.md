@@ -265,11 +265,6 @@ unter Indianern und Wilden heute sein Leben verbringen muß!“ —
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Castle Dome*: vergleiche [Castle Dome](https://en.wikipedia.org/wiki/Castle_Dome_(butte))]{.footnote}
 

@@ -1,4 +1,4 @@
-# **Das Reese River-Land.**{#rsieben .unnumbered}
+# **Das Reese River-Land.**{#rsieben .unnumbered .break-before }
 
 ## <small>Siebenundvierzigstes Kapitel.</small><br />Reise nach Austin.
 
@@ -135,13 +135,6 @@ nunmehr steht es ebenfalls als ein trauriges Beispiel da, wie menschliche
 Hoffnungen vereitelt werden.
 
 :::
-
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^4700]: [*Austin*: vergleiche [Austin, Nevada](https://de.wikipedia.org/wiki/Austin_(Nevada))]{.footnote}
 

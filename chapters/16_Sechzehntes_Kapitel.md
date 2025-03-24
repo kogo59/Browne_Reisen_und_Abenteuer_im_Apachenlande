@@ -151,10 +151,5 @@ durch äußere Verhältnisse verloren zu gehen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1600]: [*Magdalena*: vergleiche [Magdalena de Kino](https://en.wikipedia.org/wiki/Magdalena_de_Kino)]{.footnote}

@@ -173,9 +173,3 @@ genug für Speculationen dort zu finden!
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

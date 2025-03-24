@@ -1,4 +1,4 @@
-# **Bodie Bluff.**{#rdrei .unnumbered}
+# **Bodie Bluff.**{#rdrei .unnumbered .break-before}
 
 ## <small>Achtunddreißigstes Kapitel.</small><br />Nach Bodie Bluff.
 
@@ -248,13 +248,6 @@ meiner Beobachtungen in so rein praktischer Weise hinwerfen, als es einem Manne
 von meinem Temperamente zu schreiben nur möglich ist.
 
 :::
-
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3800]: [*Bodie Bluff*: vergleiche [Bodie](https://de.wikipedia.org/wiki/Bodie)]{.footnote}
 

@@ -260,9 +260,3 @@ dabei aber die Schurkerei mit Anstand zu treiben verstehen!
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

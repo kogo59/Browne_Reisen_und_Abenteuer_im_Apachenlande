@@ -227,8 +227,3 @@ den Beweis, daß es die guten Patres an Industrie nicht fehlen ließen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
